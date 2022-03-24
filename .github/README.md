@@ -1,16 +1,16 @@
 <p align="center"><img src="https://telegra.ph/file/842b25c70f113d20f67c1.jpg" alt="ICON" width="250" height="250"/></p>
 
-<h1 align="center"><b> ⚡ 𝙑𝞘𝞗𝙇𝞝𝞣 𝞛𝙐𝙎𝞘𝘾 ⚡ </b></h1>
+<h1 align="center"><b> ⚡ 𝞿𝞾𝞮𝞮𝞰 𝞛𝞾𝙨𝞲𝞻 ⚡ </b></h1>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="http://t.me/Violet_vcbot"> Ready-To-Use Bot </a> •
+    <a href="http://t.me/DC_queenbot"> Ready-To-Use Bot </a> •
     <a href="https://t.me/DCbot_updates"> Support Channel </a> •
     <a href="https://t.me/DCbots_support"> Support Chat </a> 
 
-# 𝙑𝞘𝞗𝙇𝞝𝞣 𝞛𝙐𝙎𝞘𝘾
+# 𝞿𝞾𝞮𝞮𝞰 𝞛𝞾𝙨𝞲𝞻
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 
